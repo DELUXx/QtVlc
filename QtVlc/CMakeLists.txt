@@ -26,7 +26,7 @@ VlcMedia_p.cpp
 VlcMediaPlayer.cpp
 VlcMediaPlayer_p.cpp
 VlcMediaPlayerAudio.cpp
-#VlcMediaPlayerVideo.cpp
+VlcMediaPlayerVideo.cpp
 AbstractMediaList.cpp
 VlcMediaList.cpp
 VlcMediaList_p.cpp
@@ -53,7 +53,7 @@ SET(QtVlc_HEADERS
 ../include/QtVlc/VlcMediaPlayer.h
 ../include/QtVlc/IVlcVideoDelegate.h
 ../include/QtVlc/VlcMediaPlayerAudio.h
-#../include/QtVlc/VlcMediaPlayerVideo.h
+../include/QtVlc/VlcMediaPlayerVideo.h
 ../include/QtVlc/AbstractMediaList.h
 ../include/QtVlc/VlcMediaList.h
 ../include/QtVlc/AbstractMediaListPlayer.h
